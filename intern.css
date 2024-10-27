@@ -76,7 +76,7 @@ button:hover {
 
 @media (max-width: 768px) {
     .user-list {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
